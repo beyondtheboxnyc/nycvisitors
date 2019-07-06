@@ -562,7 +562,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "How did we protect this idea?",
+          "title": "How we went around to protect this idea?\r",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -576,7 +576,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>We took advantage of the regulation's gap which requires a specific font, and we've patent design the one-way sign [R6-1] with cardinal directions letters positioned in different areas of the sign itself, and surely we used the exclusive federal font - aka Clearview Hwy, which owned by a Foundry called Terminal Design Inc. \n</p><p>\n</p><p>Since the foundry owns the font, not the use of the font! We've embraced our opportunity to protect the use of letters for guiding tourists exclusively in New York City, which means anyone else with the same idea using a different font, it won't match the federal regulations, only our intellectual properties were invented to do so! We're also aiming to partner with NY city/state authorities and NYer tourism advocacies to make it happen, for the love of native New Yorkers who're welcoming visitors but they need to walk seamlessly as well!&nbsp;</p>",
+          "text": "<p>First of all, and according to Section. 1A.08 and 1A.10 /11-E of the MUTCD, that says \"A legally binding statement certifying that the concept of the traffic control device is not protected by a patent or copyright ..., but if it was it would not be acceptable for experimentation unless the patent or copyright owner signs a waiver of rights acceptable to the FHWA\". The criteria acceptable to the FHWA - is a process for requesting and conducting experimentations for a new traffic control device - which has to be approved by the FHWA. This process will not go far without help from The City Council District 3, NYC DOT and NYS DOT.\n</p><p>Then for getting an intellectual protection, we took advantage of the regulation's gap which requires a specific font, and we've copyrighted the one-way sign [R6-1] with cardinal directions letters positioned in different areas of the sign itself, and surely we used the exclusive federal font - aka Clearview Hwy, which owned by a Foundry called Terminal Design Inc.\n</p><p>Since the foundry owns the font, not the use of the font! We've embraced our opportunity to protect the use of letters for guiding tourists exclusively in New York City, which means anyone else with the same idea using a different font, it won't match the federal regulations, only our intellectual properties were invented to do so! Therefore, we're aiming to partner with the city &amp; state authorities and maybe New York's tourism advocacies to make it happen, not for a specific reason but for the love of native New Yorkers who're welcoming visitors but they still need to walk seamlessly to their subway as well!&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -586,9 +586,9 @@
             "P": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "20px",
+              "font-size": "17px",
               "color": "#28324e",
-              "text-align": "center"
+              "text-align": "left"
             }
           }
         },
@@ -636,7 +636,7 @@
             }
           },
           "title": "Who?",
-          "text": "We've picked this simple idea as a start out to introduce bigger projects we've invented to solve New York's most vexing problems. <br> This idea is the simplest we've ever thought about. In fact, we've got more than 135 innovative projects, game-changing projects that will make the city, the state, the country and the world a better place to live. We are Beyond The Box R&amp;D, Inc - an NYC-based startup that literally thinks beyond the box, screening details and looking for great things never existed and make it exist. ",
+          "text": "We've picked this simple idea as a start out to introduce bigger projects we've invented, to solve New York's most vexing problems. <br> This idea is the simplest we've ever thought about. In fact, we've got more than 135 innovative projects, game-changing projects that will make the city, the state, the country and the world a better place to live. We are Beyond The Box R&amp;D, Inc - an NYC-based startup that literally thinks beyond the box, screening details and looking for great things never existed and make it exist. ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
